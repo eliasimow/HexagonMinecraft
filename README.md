@@ -1,7 +1,11 @@
 Hexagon Minecraft in Unity!
+
 Programmed in one week, 1/22/2024-1/29/2024.
+
 All game specific scripts written by Eli Asimow.
+
 FPS Controller Script taken from https://www.sharpcoderblog.com/blog/unity-3d-fps-controller.
+
 
 Features:
 
